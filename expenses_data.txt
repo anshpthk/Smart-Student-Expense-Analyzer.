@@ -1,0 +1,3 @@
+200.0
+29-09-2026,Hostel,99.0,note printout
+29-09-2026,Academics,200.0,water bottle
